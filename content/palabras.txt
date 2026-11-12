@@ -1,0 +1,851 @@
+# BANCO DE PALABRAS — MALDITO IMPOSTOR
+# Formato de categoría:  ## id | Nombre visible | Pista general para el modo dibujo | dibujable (si/no)
+# Formato de cada línea: Palabra ; Ayudín (pista relacionada, que NO revele la palabra)
+# Las líneas que empiezan con # se ignoran. Para agregar contenido: sumá líneas y corré  npm run validar
+
+## vida-cotidiana | Vida cotidiana | Algo que usás todos los días | si
+Despertador ; Mañana
+Cepillo de dientes ; Baño
+Billetera ; Bolsillo
+Llaves ; Puerta
+Anteojos ; Vista
+Paraguas ; Lluvia
+Mochila ; Espalda
+Reloj ; Hora
+Peine ; Pelo
+Toalla ; Ducha
+Jabón ; Espuma
+Celular ; Mensaje
+Cargador ; Batería
+Auriculares ; Música
+Zapatillas ; Cordones
+Campera ; Frío
+Bufanda ; Cuello
+Gorra ; Sol
+Mate ; Yerba
+Termo ; Agua caliente
+Taza ; Desayuno
+Diario ; Noticias
+Cuaderno ; Hojas
+Birome ; Tinta
+Encendedor ; Fuego
+Fósforo ; Caja
+Escoba ; Polvo
+Balde ; Agua
+Bolsa ; Supermercado
+Ticket ; Compra
+Moneda ; Cambio
+Tarjeta ; Banco
+Candado ; Seguridad
+Linterna ; Oscuridad
+Pilas ; Control remoto
+Tijera ; Cortar
+Cinta adhesiva ; Pegar
+Espejo ; Reflejo
+Perchero ; Entrada
+Almohada ; Siesta
+Pantuflas ; Pies
+Pijama ; Noche
+Agenda ; Turnos
+Calendario ; Fechas
+Semáforo ; Esquina
+Ascensor ; Edificio
+Timbre ; Visita
+Buzón ; Cartas
+Basura ; Bolsa negra
+Reciclaje ; Botellas
+Fila ; Espera
+Turno ; Número
+Lavarropas ; Ropa sucia
+Plancha ; Arrugas
+Tender ; Broches
+Tapaboca ; Cara
+Sobre ; Estampilla
+Cajero automático ; Plata
+Paquete ; Envío
+Factura ; Pago
+
+## comida | Comida y bebidas | Algo que se come o se toma | si
+Asado ; Domingo
+Empanada ; Repulgue
+Milanesa ; Pan rallado
+Pizza ; Horno
+Fainá ; Garbanzo
+Choripán ; Cancha
+Dulce de leche ; Postre
+Alfajor ; Kiosco
+Medialuna ; Panadería
+Facturas ; Mate
+Chocolate ; Cacao
+Helado ; Cucurucho
+Flan ; Caramelo
+Tostada ; Manteca
+Sándwich ; Pan
+Hamburguesa ; Comida rápida
+Papas fritas ; Aceite
+Ensalada ; Lechuga
+Tomate ; Rojo
+Cebolla ; Lágrimas
+Ajo ; Vampiro
+Huevo ; Gallina
+Queso ; Ratón
+Jamón ; Fiambre
+Salame ; Picada
+Fideos ; Salsa
+Ñoquis ; Día 29
+Ravioles ; Relleno
+Lasaña ; Capas
+Guiso ; Invierno
+Locro ; Patria
+Puchero ; Olla
+Sopa ; Cuchara
+Arroz ; Grano
+Lentejas ; Legumbre
+Sushi ; Palitos
+Taco ; México
+Banana ; Mono
+Manzana ; Árbol
+Naranja ; Jugo
+Frutilla ; Crema
+Sandía ; Verano
+Limón ; Ácido
+Uva ; Vino
+Ananá ; Tropical
+Durazno ; Pelusa
+Palta ; Verde
+Zanahoria ; Conejo
+Choclo ; Humita
+Café ; Despierto
+Té ; Saquito
+Leche ; Vaca
+Cerveza ; Espuma
+Fernet ; Coca
+Gaseosa ; Burbujas
+Licuado ; Banana
+Torta ; Velas
+Galletitas ; Paquete
+Pochoclo ; Cine
+Caramelos ; Bolsillo
+Chicle ; Globo
+Mermelada ; Frasco
+Miel ; Abeja
+Pan dulce ; Navidad
+Provoleta ; Parrilla
+Chimichurri ; Ajo y perejil
+Mayonesa ; Aderezo
+
+## viajes | Vacaciones y viajes | Algo que tiene que ver con viajar | si
+Valija ; Ropa
+Pasaporte ; Frontera
+Avión ; Aeropuerto
+Hotel ; Habitación
+Carpa ; Camping
+Playa ; Arena
+Montaña ; Altura
+Mapa ; Ruta
+Brújula ; Norte
+Cámara de fotos ; Recuerdos
+Souvenir ; Regalo
+Protector solar ; Piel
+Ojotas ; Pies
+Sombrilla ; Arena
+Reposera ; Descanso
+Mochilero ; Aventura
+Crucero ; Barco
+Excursión ; Guía
+Pasaje ; Boleto
+Reserva ; Fecha
+Aduana ; Control
+Equipaje ; Peso
+Isla ; Mar
+Cabaña ; Madera
+Bolsa de dormir ; Frío
+Postal ; Saludos
+Turista ; Fotos
+Museo ; Historia
+Glaciar ; Hielo
+Cataratas ; Agua
+Desierto ; Calor
+Selva ; Verde
+Snorkel ; Peces
+Esquí ; Nieve
+Parador ; Ruta
+Hostel ; Compartido
+Check-in ; Recepción
+Itinerario ; Plan
+Moneda extranjera ; Cambio
+Escala ; Espera
+Pileta ; Natación
+Balneario ; Costa
+Médanos ; Arena
+Faro ; Luz
+Muelle ; Botes
+Teleférico ; Cables
+Tren turístico ; Vías
+Conservadora ; Hielo
+Mate en la ruta ; Viaje largo
+Vacaciones de invierno ; Julio
+
+## trabajo | Trabajo y oficina | Algo de un lugar de trabajo | si
+Computadora ; Pantalla
+Escritorio ; Mesa
+Impresora ; Papel
+Fotocopiadora ; Copias
+Reunión ; Sala
+Jefe ; Mando
+Sueldo ; Fin de mes
+Aguinaldo ; Diciembre
+Vacaciones ; Descanso
+Currículum ; Experiencia
+Entrevista ; Nervios
+Contrato ; Firma
+Abrochadora ; Hojas
+Clip ; Metal
+Carpeta ; Papeles
+Archivo ; Cajón
+Calculadora ; Números
+Teclado ; Escribir
+Mouse ; Clic
+Correo electrónico ; Bandeja
+Planilla ; Celdas
+Presentación ; Diapositivas
+Videollamada ; Cámara
+Horas extra ; Tarde
+Licencia ; Ausencia
+Feriado ; Calendario
+Café de máquina ; Pasillo
+Oficina ; Edificio
+Recepción ; Entrada
+Tarjeta de presentación ; Nombre
+Cliente ; Atención
+Proveedor ; Pedido
+Factura ; Cobro
+Presupuesto ; Costo
+Ascenso ; Cargo
+Renuncia ; Carta
+Despido ; Indemnización
+Pasante ; Aprendiz
+Uniforme ; Ropa
+Casco ; Obra
+Herramientas ; Caja
+Fábrica ; Máquinas
+Sindicato ; Gremio
+Huelga ; Paro
+Home office ; Casa
+Post-it ; Amarillo
+Pizarrón ; Marcador
+Agenda laboral ; Compromisos
+Almuerzo de trabajo ; Mediodía
+Fichar ; Horario
+
+## deportes | Deportes | Algo relacionado con el deporte | si
+Fútbol ; Pelota
+Arco ; Red
+Gol ; Grito
+Árbitro ; Silbato
+Tarjeta roja ; Expulsión
+Penal ; Punto
+Camiseta ; Número
+Botines ; Tapones
+Cancha ; Césped
+Hinchada ; Tribuna
+Tenis ; Raqueta
+Básquet ; Aro
+Vóley ; Red
+Rugby ; Ovalada
+Hockey ; Palo
+Natación ; Pileta
+Ciclismo ; Pedales
+Maratón ; Kilómetros
+Boxeo ; Guantes
+Golf ; Hoyo
+Ajedrez ; Tablero
+Paddle ; Paleta
+Gimnasio ; Pesas
+Pesas ; Músculos
+Yoga ; Respiración
+Surf ; Ola
+Skate ; Rampa
+Patines ; Ruedas
+Medalla ; Podio
+Trofeo ; Copa
+Mundial ; Selección
+Entrenador ; Táctica
+Capitán ; Cinta
+Arquero ; Guantes
+Offside ; Línea
+Tiempo suplementario ; Alargue
+Estadio ; Público
+Vestuario ; Duchas
+Calentamiento ; Antes
+Pelota ; Redonda
+Polo ; Caballo
+Esgrima ; Espada
+Remo ; Bote
+Escalada ; Pared
+Pesca ; Caña
+Equitación ; Montura
+Bowling ; Pinos
+Ping pong ; Mesa
+Dardos ; Diana
+Carrera ; Llegada
+
+## familia | Familia y amigos | Algo de familia o amistad | si
+Abuela ; Mimos
+Abuelo ; Historias
+Mamá ; Cariño
+Papá ; Consejo
+Hermano ; Peleas
+Primo ; Familia grande
+Tío ; Cumpleaños
+Sobrino ; Pequeño
+Bebé ; Pañal
+Cuna ; Dormir
+Mamadera ; Leche
+Chupete ; Boca
+Casamiento ; Anillos
+Novia ; Vestido
+Luna de miel ; Viaje
+Aniversario ; Fecha
+Mejor amigo ; Confianza
+Juntada ; Viernes
+Asado familiar ; Domingo
+Sobremesa ; Charla
+Álbum de fotos ; Recuerdos
+Árbol genealógico ; Ramas
+Mascota ; Compañía
+Perro ; Ladrido
+Gato ; Maullido
+Suegra ; Visita
+Padrino ; Bautismo
+Mellizos ; Iguales
+Herencia ; Abuelos
+Reunión familiar ; Mesa larga
+Grupo de WhatsApp ; Mensajes
+Abrazo ; Brazos
+Beso ; Mejilla
+Secreto ; Silencio
+Chisme ; Rumor
+Pijamada ; Noche
+Videollamada familiar ; Lejos
+Carta ; Letras
+Regalo ; Moño
+Sorpresa ; Grito
+
+## hogar | Hogar | Algo que hay en una casa | si
+Heladera ; Frío
+Cocina ; Hornallas
+Horno ; Calor
+Microondas ; Calentar
+Licuadora ; Batir
+Tostadora ; Pan
+Pava eléctrica ; Agua
+Sillón ; Living
+Sofá cama ; Visitas
+Cama ; Colchón
+Placard ; Ropa
+Ropero ; Puertas
+Mesa ; Patas
+Silla ; Sentarse
+Lámpara ; Luz
+Ventana ; Vidrio
+Cortina ; Tela
+Persiana ; Enrollar
+Alfombra ; Piso
+Inodoro ; Baño
+Bañera ; Espuma
+Ducha ; Agua caliente
+Canilla ; Gotear
+Lavarropas ; Centrifugado
+Ventilador ; Aspas
+Aire acondicionado ; Verano
+Estufa ; Invierno
+Chimenea ; Leña
+Escalera ; Subir
+Balcón ; Vista
+Terraza ; Arriba
+Patio ; Plantas
+Jardín ; Flores
+Garaje ; Auto
+Parrilla ; Carbón
+Pileta de lona ; Patio
+Maceta ; Tierra
+Florero ; Agua
+Cuadro ; Pared
+Reloj de pared ; Hora
+Velador ; Mesa de luz
+Televisor ; Control
+Control remoto ; Botones
+Enchufe ; Electricidad
+Lamparita ; Bombita
+Tacho de basura ; Residuos
+Trapo de piso ; Limpieza
+Plumero ; Polvo
+Aspiradora ; Ruido
+Cubiertos ; Cajón
+Olla ; Hervir
+Sartén ; Freír
+Vaso ; Agua
+Plato ; Comida
+Mantel ; Mesa
+Llave de luz ; Interruptor
+Puerta ; Picaporte
+Felpudo ; Entrada
+Cajonera ; Ordenar
+Biblioteca ; Libros
+
+## escuela | Escuela y universidad | Algo de la escuela | si
+Pizarrón ; Tiza
+Tiza ; Blanco
+Guardapolvo ; Blanco
+Mochila escolar ; Útiles
+Cartuchera ; Lápices
+Lápiz ; Grafito
+Goma de borrar ; Errores
+Sacapuntas ; Punta
+Regla ; Medir
+Compás ; Círculo
+Transportador ; Ángulos
+Libro ; Páginas
+Diccionario ; Palabras
+Mapa ; Países
+Globo terráqueo ; Mundo
+Maestra ; Clase
+Profesor ; Materia
+Director ; Oficina
+Recreo ; Patio
+Timbre ; Salida
+Examen ; Nota
+Prueba sorpresa ; Nervios
+Boletín ; Calificaciones
+Tarea ; Casa
+Machete ; Trampa
+Amonestación ; Castigo
+Acto escolar ; Bandera
+Bandera ; Mástil
+Uniforme ; Igual
+Comedor ; Almuerzo
+Laboratorio ; Experimento
+Microscopio ; Pequeño
+Biblioteca escolar ; Silencio
+Gimnasia ; Educación física
+Excursión escolar ; Micro
+Graduación ; Diploma
+Diploma ; Título
+Universidad ; Carrera
+Facultad ; Cátedra
+Apuntes ; Fotocopias
+Final ; Mesa
+Tesis ; Investigación
+Aula ; Bancos
+Banco ; Compañero
+Compañero ; Al lado
+Calculadora científica ; Números
+Lapicera ; Tinta
+Resaltador ; Fluorescente
+Carpeta escolar ; Hojas
+Viaje de egresados ; Bariloche
+
+## transporte | Transporte | Un medio de transporte o algo de la calle | si
+Colectivo ; Parada
+Subte ; Túnel
+Tren ; Andén
+Taxi ; Taxímetro
+Remis ; Chofer
+Auto ; Volante
+Moto ; Casco
+Bicicleta ; Pedales
+Monopatín ; Ruedas
+Camión ; Carga
+Ambulancia ; Sirena
+Patrullero ; Policía
+Autobomba ; Bomberos
+Barco ; Puerto
+Velero ; Viento
+Lancha ; Río
+Helicóptero ; Rescate
+Avioneta ; Pequeña
+Globo aerostático ; Aire
+Cohete ; Espacio
+Tractor ; Campo
+Grúa ; Acarreo
+Combi ; Pasajeros
+Tranvía ; Rieles
+Peaje ; Barrera
+Autopista ; Carriles
+Rotonda ; Vueltas
+Estacionamiento ; Lugar
+Nafta ; Tanque
+Estación de servicio ; Surtidor
+Rueda ; Goma
+Volante ; Dirección
+Cinturón de seguridad ; Abrochar
+Bocina ; Ruido
+Registro de conducir ; Examen
+SUBE ; Tarjeta
+Boleto ; Viaje
+Parada de colectivo ; Esperar
+Embotellamiento ; Tránsito
+Paso a nivel ; Barreras
+Ferry ; Cruce
+Kayak ; Remo
+Carruaje ; Caballos
+Patineta ; Tabla
+Trineo ; Nieve
+
+## naturaleza | Clima y naturaleza | Algo de la naturaleza | si
+Sol ; Calor
+Luna ; Noche
+Estrella ; Cielo
+Nube ; Blanca
+Lluvia ; Gotas
+Tormenta ; Truenos
+Rayo ; Luz
+Arcoíris ; Colores
+Nieve ; Blanco
+Granizo ; Hielo
+Viento ; Soplar
+Niebla ; Visibilidad
+Tornado ; Remolino
+Volcán ; Lava
+Terremoto ; Temblor
+Río ; Corriente
+Lago ; Calma
+Mar ; Olas
+Océano ; Profundo
+Cascada ; Caída
+Bosque ; Árboles
+Árbol ; Hojas
+Flor ; Pétalos
+Rosa ; Espinas
+Girasol ; Amarillo
+Cactus ; Desierto
+Hongo ; Humedad
+Piedra ; Dura
+Arena ; Playa
+Cueva ; Oscura
+Elefante ; Trompa
+León ; Melena
+Jirafa ; Cuello largo
+Mono ; Banana
+Tigre ; Rayas
+Cebra ; Rayas
+Oso ; Hibernar
+Pingüino ; Frío
+Delfín ; Inteligente
+Tiburón ; Aleta
+Ballena ; Gigante
+Pulpo ; Tentáculos
+Caracol ; Caparazón
+Mariposa ; Alas
+Abeja ; Panal
+Hormiga ; Trabajo
+Araña ; Telaraña
+Serpiente ; Veneno
+Tortuga ; Lenta
+Cocodrilo ; Dientes
+Rana ; Charco
+Búho ; Noche
+Loro ; Hablar
+Águila ; Vuelo
+Caballo ; Galope
+Vaca ; Campo
+Oveja ; Lana
+Gallo ; Madrugada
+Conejo ; Orejas
+Ardilla ; Nueces
+Primavera ; Flores
+Otoño ; Hojas secas
+Invierno ; Frío
+Verano ; Calor
+Hielo ; Frío
+Huracán ; Viento
+
+## fiestas | Fiestas y celebraciones | Algo de una fiesta | si
+Cumpleaños ; Velas
+Globo ; Inflar
+Guirnalda ; Colgar
+Piñata ; Palo
+Torta de cumpleaños ; Soplar
+Velitas ; Deseo
+Navidad ; Diciembre
+Árbol de Navidad ; Adornos
+Papá Noel ; Regalos
+Reyes Magos ; Zapatos
+Año Nuevo ; Brindis
+Fuegos artificiales ; Cielo
+Brindis ; Copas
+Champán ; Corcho
+Sidra ; Ananá fizz
+Carnaval ; Disfraz
+Disfraz ; Personaje
+Máscara ; Cara
+Halloween ; Calabaza
+Pascua ; Huevos
+Huevo de Pascua ; Chocolate
+Casamiento ; Iglesia
+Vals ; Baile
+Ramo ; Tirar
+Anillo ; Dedo
+Fiesta de quince ; Vestido
+Egresados ; Viaje
+Despedida de soltero ; Amigos
+Baby shower ; Embarazo
+Bautismo ; Agua
+Comunión ; Iglesia
+Graduación ; Toga
+Cotillón ; Sombreritos
+DJ ; Música
+Pista de baile ; Bailar
+Karaoke ; Cantar
+Confeti ; Papelitos
+Serpentina ; Rollos
+Invitación ; Tarjeta
+Mesa dulce ; Postres
+Sorpresa ; Escondidos
+Día de la Madre ; Octubre
+Día del Amigo ; Julio
+San Valentín ; Corazones
+Peña ; Folclore
+Fiesta patria ; Escarapela
+Escarapela ; Celeste y blanco
+
+## tecnologia | Tecnología | Algo tecnológico | si
+Celular ; Pantalla táctil
+Computadora portátil ; Batería
+Tablet ; Pantalla
+Internet ; Conexión
+Wifi ; Contraseña
+Contraseña ; Secreto
+Correo ; Arroba
+Red social ; Seguidores
+Selfie ; Cara
+Emoji ; Carita
+Aplicación ; Descargar
+Videojuego ; Joystick
+Consola ; Juegos
+Joystick ; Botones
+Robot ; Máquina
+Dron ; Volar
+Impresora 3D ; Objeto
+Pendrive ; USB
+Disco rígido ; Memoria
+Nube ; Archivos
+Cámara de seguridad ; Vigilar
+Parlante ; Sonido
+Micrófono ; Voz
+Televisor inteligente ; Series
+Reloj inteligente ; Muñeca
+GPS ; Ubicación
+Satélite ; Órbita
+Antena ; Señal
+Batería externa ; Carga
+Cable ; Enchufar
+Pantalla ; Imagen
+Teclado ; Letras
+Inteligencia artificial ; Preguntas
+Código QR ; Escanear
+Podcast ; Escuchar
+Streaming ; En vivo
+Influencer ; Seguidores
+Hacker ; Seguridad
+Virus ; Antivirus
+Actualización ; Versión
+Captura de pantalla ; Imagen
+Notificación ; Aviso
+Modo avión ; Sin señal
+Bluetooth ; Inalámbrico
+Realidad virtual ; Anteojos
+
+## entretenimiento | Entretenimiento | Algo para divertirse | si
+Cine ; Pantalla grande
+Película ; Actores
+Serie ; Capítulos
+Teatro ; Escenario
+Circo ; Carpa
+Payaso ; Nariz
+Mago ; Truco
+Malabarista ; Pelotitas
+Concierto ; Escenario
+Recital ; Banda
+Guitarra ; Cuerdas
+Piano ; Teclas
+Batería ; Platillos
+Violín ; Arco
+Trompeta ; Soplar
+Micrófono ; Cantante
+Radio ; Locutor
+Televisión ; Canales
+Dibujos animados ; Chicos
+Historieta ; Viñetas
+Novela ; Capítulo
+Libro ; Lectura
+Rompecabezas ; Piezas
+Juego de mesa ; Dados
+Dados ; Números
+Cartas ; Mazo
+Truco ; Envido
+Ajedrez ; Rey
+Ruleta ; Casino
+Parque de diversiones ; Juegos
+Montaña rusa ; Vértigo
+Calesita ; Sortija
+Tobogán ; Bajar
+Hamaca ; Balanceo
+Karaoke ; Letra
+Boliche ; Noche
+Museo ; Obras
+Zoológico ; Animales
+Acuario ; Peces
+Bowling ; Pinos
+Escape room ; Pistas
+Fotografía ; Cámara
+Pintura ; Pincel
+Escultura ; Piedra
+Baile ; Pasos
+Tango ; Bandoneón
+Cumbia ; Bailar
+Folclore ; Guitarra
+Títeres ; Hilos
+Fogón ; Guitarreada
+
+## lugares | Lugares | Un lugar | si
+Restaurante ; Mozo
+Supermercado ; Changuito
+Kiosco ; Golosinas
+Panadería ; Pan
+Carnicería ; Carne
+Verdulería ; Frutas
+Farmacia ; Remedios
+Hospital ; Médicos
+Banco ; Plata
+Correo ; Paquetes
+Iglesia ; Campanas
+Plaza ; Bancos
+Parque ; Pasto
+Estadio ; Partido
+Aeropuerto ; Vuelos
+Terminal de micros ; Andenes
+Estación de tren ; Andén
+Puerto ; Barcos
+Shopping ; Locales
+Cine ; Butacas
+Biblioteca ; Silencio
+Escuela ; Alumnos
+Comisaría ; Policía
+Cárcel ; Rejas
+Cementerio ; Tumbas
+Castillo ; Rey
+Faro ; Costa
+Granja ; Animales
+Estancia ; Campo
+Peluquería ; Corte
+Gimnasio ; Ejercicio
+Lavadero ; Ropa
+Ferretería ; Tornillos
+Librería ; Libros
+Heladería ; Gustos
+Pizzería ; Muzza
+Bar ; Tragos
+Café ; Mesa
+Hotel ; Llave
+Playa ; Sombrilla
+Isla ; Agua
+Desierto ; Arena
+Selva ; Animales
+Montaña ; Cima
+Pueblo ; Tranquilo
+Ciudad ; Edificios
+Obelisco ; Buenos Aires
+Puente ; Cruzar
+Túnel ; Oscuro
+Mercado ; Puestos
+Feria ; Puestos
+Vivero ; Plantas
+Veterinaria ; Mascotas
+Consultorio ; Turno
+Laboratorio ; Análisis
+
+## actividades | Actividades | Algo que se hace | si
+Cocinar ; Receta
+Bailar ; Música
+Cantar ; Voz
+Leer ; Libro
+Escribir ; Lápiz
+Dibujar ; Hoja
+Pintar ; Colores
+Correr ; Zapatillas
+Caminar ; Pasos
+Nadar ; Agua
+Saltar ; Arriba
+Dormir ; Cama
+Soñar ; Noche
+Pescar ; Río
+Acampar ; Carpa
+Jardinería ; Plantas
+Tejer ; Agujas
+Coser ; Hilo
+Planchar ; Ropa
+Barrer ; Escoba
+Lavar los platos ; Detergente
+Hacer las compras ; Lista
+Manejar ; Volante
+Andar en bici ; Pedalear
+Meditar ; Calma
+Estudiar ; Examen
+Viajar ; Destino
+Sacar fotos ; Cámara
+Mirar series ; Sillón
+Jugar a las cartas ; Mazo
+Armar un rompecabezas ; Piezas
+Pasear al perro ; Correa
+Tomar mate ; Ronda
+Hacer un asado ; Fuego
+Mudarse ; Cajas
+Pintar una pared ; Rodillo
+Arreglar un auto ; Taller
+Hacer gimnasia ; Transpirar
+Ir al médico ; Turno
+Cortarse el pelo ; Tijera
+Afeitarse ; Espuma
+Maquillarse ; Espejo
+Hacer la cama ; Sábanas
+Regar las plantas ; Agua
+Ordenar el placard ; Ropa
+Esperar el colectivo ; Parada
+Hacer una fila ; Paciencia
+Pedir delivery ; Moto
+Llamar por teléfono ; Voz
+Mandar un audio ; WhatsApp
+
+## situaciones-graciosas | Situaciones graciosas | Algo que causa gracia | no
+Resbalón ; Piso mojado
+Estornudo ; Nariz
+Hipo ; Susto
+Bostezo ; Sueño
+Ronquido ; Noche
+Tropezón ; Escalón
+Papelón ; Vergüenza
+Metida de pata ; Error
+Chiste ; Risa
+Broma ; Inocente
+Cosquillas ; Risa
+Carcajada ; Ruido
+Cara de dormido ; Mañana
+Pelo revuelto ; Almohada
+Media rota ; Dedo
+Mancha de salsa ; Camisa
+Llamada equivocada ; Número
+Autocorrector ; Mensaje
+Mensaje al grupo equivocado ; Pánico
+Olvido ; Memoria
+Cumpleaños olvidado ; Culpa
+Saludo fallido ; Mano
+Silencio incómodo ; Ascensor
+Foto movida ; Borrosa
+Pantalón descosido ; Agachar
+Guiño ; Ojo
+Mueca ; Cara
+Imitación ; Voz
+Disfraz ridículo ; Fiesta
+Paso de baile ; Boda

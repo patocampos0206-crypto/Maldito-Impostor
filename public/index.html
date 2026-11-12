@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no">
+  <title>MALDITO IMPOSTOR</title>
+  <meta name="description" content="¿Quién está mintiendo? Juego de impostores para jugar en persona, un celular por jugador. Creado por Patricio.">
+  <meta name="theme-color" content="#0a0710">
+  <meta name="color-scheme" content="dark">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Impostor">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div id="bg" aria-hidden="true"><div class="fog f1"></div><div class="fog f2"></div><div class="grain"></div></div>
+  <div id="net" class="net hidden" role="status">Reconectando…</div>
+  <main id="app" aria-live="polite"></main>
+  <div id="sheet-root"></div>
+  <div id="toast" class="toast" role="alert"></div>
+  <noscript>Necesitás activar JavaScript para jugar.</noscript>
+  <script src="/app.js"></script>
+</body>
+</html>

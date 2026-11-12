@@ -1,0 +1,18 @@
+{
+  "name": "maldito-impostor",
+  "version": "1.0.0",
+  "description": "MALDITO IMPOSTOR — juego multijugador presencial con un celular por jugador. Creado por Patricio.",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/partidas.test.js",
+    "validar": "node scripts/validar.js",
+    "generar": "node scripts/generar-ia.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Patricio",
+  "license": "UNLICENSED"
+}

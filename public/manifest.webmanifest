@@ -1,0 +1,19 @@
+{
+  "name": "MALDITO IMPOSTOR",
+  "short_name": "Impostor",
+  "description": "¿Quién está mintiendo? Juego de impostores para jugar en persona, un celular por jugador. Creado por Patricio.",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0710",
+  "theme_color": "#0a0710",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

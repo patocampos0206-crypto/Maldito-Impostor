@@ -1,0 +1,496 @@
+# BANCO DE FRASES — MALDITO IMPOSTOR
+# Formato de categoría:  ## id | Nombre visible
+# Formato de cada línea: Frase ; Ayudín (pista relacionada, que NO revele la frase)
+# Para agregar contenido: sumá líneas y corré  npm run validar
+
+## vida-cotidiana | Vida cotidiana
+Perder las llaves de casa ; Puerta
+Quedarse dormido mirando televisión ; Sillón
+Esperar el colectivo bajo la lluvia ; Parada
+Hacer las compras en el supermercado ; Changuito
+Llegar tarde a todos lados ; Reloj
+Quedarse sin batería en la calle ; Cargador
+Olvidarse el paraguas en el colectivo ; Asiento
+Hacer la fila del banco ; Número
+Despertarse antes que suene la alarma ; Celular
+Tomar mate en la vereda ; Termo
+Sacar la basura a la noche ; Bolsa
+Buscar estacionamiento en el centro ; Vueltas
+Pagar las cuentas a fin de mes ; Vencimiento
+Cortarse la luz en pleno verano ; Calor
+Quedarse sin agua caliente en la ducha ; Frío
+Pisar caca de perro ; Zapatilla
+Encontrar plata en un pantalón viejo ; Bolsillo
+Hacer zapping sin encontrar nada ; Control remoto
+Mirar el celular antes de dormir ; Pantalla
+Salir corriendo porque llueve ; Mojado
+Comprar facturas un domingo ; Panadería
+Atender el timbre en pijama ; Vergüenza
+Hacer un trámite en una oficina pública ; Papeles
+Esperar un turno médico ; Revistas viejas
+Ir al kiosco a la madrugada ; Golosinas
+Discutir por el control remoto ; Sillón
+Lavar la ropa y que llueva ; Tender
+Prender la estufa por primera vez ; Invierno
+Hablar con el vecino en el ascensor ; Clima
+Quedarse encerrado afuera de casa ; Cerrajero
+Recibir un paquete por correo ; Cartero
+Ir a la verdulería del barrio ; Bolsa
+Despertarse con frío y no querer salir de la cama ; Frazada
+Sacar al perro a pasear de noche ; Correa
+Hacer dieta después de las fiestas ; Balanza
+
+## comida | Comida y bebidas
+Preparar un asado un domingo ; Parrilla
+Pedir pizza un viernes a la noche ; Delivery
+Hacer ñoquis el 29 ; Plata
+Tomar un café con medialunas ; Bar
+Comer un helado en verano ; Cucurucho
+Cocinar un guiso en invierno ; Olla
+Hacer una picada con amigos ; Tabla
+Quemar la comida por distraerse ; Humo
+Desayunar en la cama ; Bandeja
+Comer empanadas con la mano ; Repulgue
+Preparar una torta de cumpleaños ; Horno
+Tomar un vermut antes de comer ; Soda
+Cenar en un restaurante elegante ; Mozo
+Comer pochoclos en el cine ; Butaca
+Probar comida picante por primera vez ; Agua
+Armar sándwiches para la playa ; Conservadora
+Comer una milanesa a caballo ; Huevo
+Hacer mermelada casera ; Frasco
+Pelar papas para la cena ; Cuchillo
+Sacar la carne del freezer a último momento ; Microondas
+Tomar mate con bizcochitos ; Termo
+Cocinar fideos para muchas personas ; Olla grande
+Hacer locro el 25 de mayo ; Patria
+Ir a comer a lo de la abuela ; Domingo
+Cocinar siguiendo un video ; Celular
+Hacer pan casero ; Masa
+Comer sushi con palitos ; Arroz
+Pedir la cuenta en un bar ; Propina
+Tomar chocolate caliente con churros ; Invierno
+Probar un vino en una bodega ; Copa
+Hacer un licuado de frutas ; Banana
+Comerse el último alfajor ; Culpa
+Robar papas fritas del plato ajeno ; Mano
+Preparar el desayuno para el Día de la Madre ; Sorpresa
+Hacer choripanes en la cancha ; Previa
+
+## viajes | Vacaciones y viajes
+Ir de vacaciones a la playa ; Sombrilla
+Armar la valija a último momento ; Ropa
+Perder un vuelo ; Aeropuerto
+Acampar en la montaña ; Carpa
+Hacer un viaje largo en auto ; Ruta
+Sacarse fotos con un monumento ; Turista
+Viajar en micro toda la noche ; Asiento
+Llegar al hotel y que no haya reserva ; Recepción
+Quemarse con el sol el primer día ; Protector
+Hacer una excursión en lancha ; Lago
+Ir a esquiar a Bariloche ; Nieve
+Conocer las Cataratas del Iguazú ; Agua
+Viajar con chicos en el auto ; ¿Falta mucho?
+Pasar por la aduana ; Valija
+Perder la valija en un viaje ; Equipaje
+Mandar una postal a la familia ; Correo
+Comprar souvenirs para todos ; Regalos
+Alquilar una cabaña en las sierras ; Madera
+Hacer un viaje de mochilero ; Aventura
+Dormir en un aeropuerto ; Escala
+Tomar sol en la reposera ; Descanso
+Construir un castillo de arena ; Balde
+Buscar caracoles en la orilla ; Mar
+Andar a caballo en el campo ; Montura
+Subir a un cerro para ver el atardecer ; Vista
+Viajar en tren por primera vez ; Vías
+Hacer un crucero ; Barco
+Recorrer un museo en otro país ; Historia
+Volver de vacaciones y no querer trabajar ; Lunes
+Cargar la conservadora para la playa ; Hielo
+Meterse al mar helado ; Frío
+Hacer dedo en la ruta ; Pulgar
+Pedir indicaciones en otro idioma ; Mapa
+Ir a pescar al río ; Caña
+Hacer el check-in en el hotel ; Llave
+
+## trabajo | Trabajo y oficina
+Llegar tarde al trabajo ; Jefe
+Tener una reunión que podía ser un mail ; Aburrimiento
+Pedir un aumento de sueldo ; Plata
+Hacer una entrevista de trabajo ; Currículum
+Trabajar desde casa en pijama ; Cámara
+Olvidarse de silenciar el micrófono ; Videollamada
+Quedarse sin tinta en la impresora ; Papel
+Comer en el escritorio ; Teclado
+Esperar el viernes toda la semana ; Cansancio
+Tener el primer día en un trabajo nuevo ; Nervios
+Hacer horas extra un viernes ; Cansancio
+Cobrar el aguinaldo ; Diciembre
+Organizar el asado de fin de año de la oficina ; Compañeros
+Mandar un mail al destinatario equivocado ; Arrepentimiento
+Presentar un proyecto frente a todos ; Diapositivas
+Pedirse las vacaciones en el trabajo ; Calendario
+Hacerse el ocupado cuando pasa el jefe ; Pantalla
+Pelearse con la fotocopiadora ; Atasco
+Tomar café en el pasillo ; Máquina
+Trabajar en un feriado ; Calendario
+Renunciar a un trabajo ; Carta
+Capacitar a un empleado nuevo ; Explicar
+Ir a una conferencia ; Credencial
+Hacer un brindis por un ascenso ; Copas
+Fichar la entrada ; Horario
+Atender a un cliente enojado ; Paciencia
+Que se corte internet en plena videollamada ; Conexión
+Llevar la vianda al trabajo ; Táper
+Firmar un contrato ; Lapicera
+Despedir a un compañero que se jubila ; Regalo
+Trabajar en una obra en construcción ; Casco
+Hacer el inventario del negocio ; Planilla
+Abrir el local a la mañana ; Persiana
+Cerrar la caja al final del día ; Plata
+Responder cien mails un lunes ; Bandeja
+
+## deportes | Deportes
+Jugar un partido de fútbol con amigos ; Pelota
+Ver la final del Mundial ; Selección
+Gritar un gol en la cancha ; Hinchada
+Ir al gimnasio en enero ; Promesa
+Correr una maratón ; Kilómetros
+Patear un penal en el último minuto ; Arco
+Discutir con el árbitro ; Silbato
+Jugar al paddle un sábado ; Paleta
+Aprender a andar en bici ; Rueditas
+Hacer abdominales en el piso ; Panza
+Ir a la cancha con la camiseta ; Colores
+Perder un partido por goleada ; Tristeza
+Festejar un campeonato en el Obelisco ; Bocinas
+Jugar al tenis en polvo de ladrillo ; Raqueta
+Nadar en una pileta olímpica ; Andarivel
+Practicar yoga en el parque ; Colchoneta
+Aprender a surfear ; Tabla
+Armar los equipos en el picado ; Elegir
+Romper un vidrio con la pelota ; Vecino
+Ver el partido en un bar ; Pantalla
+Hacer una carrera de embolsados ; Bolsa
+Jugar al vóley en la playa ; Red
+Escalar una pared ; Arnés
+Jugar al truco y mentir ; Envido
+Ganar una medalla de oro ; Podio
+Entrenar bajo la lluvia ; Barro
+Lesionarse en el primer partido ; Rodilla
+Ir a ver un partido de básquet ; Aro
+Saltar en cama elástica ; Resortes
+Jugar al ping pong en un club ; Paleta
+
+## familia | Familia y amigos
+Organizar una fiesta sorpresa ; Secreto
+Ir a comer a lo de la abuela ; Ravioles
+Juntarse con amigos un viernes ; Previa
+Conocer a los suegros ; Nervios
+Pelear con un hermano por la tele ; Control
+Ver fotos viejas de la familia ; Álbum
+Cuidar a un bebé por primera vez ; Pañal
+Llevar a los chicos al colegio ; Mochila
+Hacer una videollamada con un familiar lejos ; Pantalla
+Discutir en el grupo familiar de WhatsApp ; Mensajes
+Cuidar a los sobrinos un fin de semana ; Paciencia
+Mudarse a vivir solo ; Cajas
+Adoptar un perro ; Refugio
+Festejar el cumpleaños de la abuela ; Torta
+Ir de vacaciones con toda la familia ; Auto
+Contar un secreto que no había que contar ; Chisme
+Pedirle plata prestada a un amigo ; Devolver
+Armar el árbol de Navidad en familia ; Adornos
+Ser el padrino de un casamiento ; Anillos
+Visitar a un amigo en el hospital ; Flores
+Hacer una pijamada ; Colchones
+Mirar una película todos juntos ; Sillón
+Despedir a un amigo en el aeropuerto ; Abrazo
+Reencontrarse con amigos de la infancia ; Recuerdos
+Enseñarle a manejar a un hijo ; Volante
+Hacer la tarea con los chicos ; Cuaderno
+Discutir quién lava los platos ; Cocina
+Esperar a que llegue un bebé ; Embarazo
+Ir a buscar a un amigo al boliche ; Madrugada
+Hacer un regalo entre todos ; Colecta
+
+## hogar | Hogar
+Un día de lluvia en casa ; Paraguas
+Limpiar la casa un sábado a la mañana ; Escoba
+Pintar una habitación ; Rodillo
+Arreglar una canilla que gotea ; Plomero
+Armar un mueble con instrucciones ; Tornillos
+Cambiar una lamparita ; Escalera
+Mudarse de departamento ; Camión
+Descongelar la heladera ; Agua
+Ordenar el placard ; Ropa
+Regar las plantas del balcón ; Regadera
+Encontrar una cucaracha en la cocina ; Grito
+Lavar el auto en la vereda ; Manguera
+Cocinar con la ventana abierta ; Olor
+Colgar un cuadro torcido ; Clavo
+Prender la chimenea ; Leña
+Dormir la siesta en verano ; Ventilador
+Escuchar al vecino taladrar un domingo ; Ruido
+Desatascar el inodoro ; Sopapa
+Planchar una pila de ropa ; Arrugas
+Cortar el pasto del jardín ; Máquina
+Inflar la pileta de lona ; Verano
+Remodelar la cocina ; Obra
+Buscar el control remoto entre los almohadones ; Sillón
+Hacer la cama todas las mañanas ; Sábanas
+Barrer las hojas del patio ; Otoño
+Encontrar humedad en la pared ; Mancha
+Cambiar las sábanas ; Colchón
+Poner la mesa para muchas personas ; Platos
+Esperar al técnico todo el día ; Turno
+Entrar a una casa nueva ; Llaves
+
+## escuela | Escuela y universidad
+Rendir un examen sin haber estudiado ; Nervios
+Llegar tarde a clase ; Portero
+Hacer un trabajo práctico en grupo ; Compañeros
+Olvidarse la tarea en casa ; Cuaderno
+Ir de viaje de egresados ; Bariloche
+Pasar al frente a dar la lección ; Pizarrón
+Copiarse en una prueba ; Machete
+Comprar los útiles en marzo ; Lista
+Recibir el boletín de calificaciones ; Notas
+Participar de un acto escolar ; Bandera
+Quedarse dormido en clase ; Banco
+Estudiar toda la noche para un final ; Café
+Recibirse en la universidad ; Diploma
+Elegir una carrera ; Futuro
+Hacer fila en la fotocopiadora de la facultad ; Apuntes
+Jugar en el recreo ; Patio
+Llevar una nota para que firmen los padres ; Cuaderno
+Hacer un experimento en el laboratorio ; Tubo de ensayo
+Leer un libro obligatorio ; Resumen
+Faltar a clase por estar enfermo ; Certificado
+Tener una maestra muy estricta ; Silencio
+Exponer una maqueta ; Cartón
+Forrar los cuadernos ; Contact
+Ir al primer día de clases ; Guardapolvo
+Defender una tesis ; Jurado
+Ser el abanderado de la escuela ; Mástil
+Hacer gimnasia en el patio ; Profesor
+Cambiarse de escuela ; Nuevos compañeros
+Festejar el último día de clases ; Harina
+Pedir prestada una birome ; Cartuchera
+
+## transporte | Transporte
+Esperar el colectivo ; Parada
+Viajar en subte en hora pico ; Apretados
+Quedarse sin nafta en la ruta ; Bidón
+Pinchar una goma ; Gato
+Tomar un taxi a la madrugada ; Taxímetro
+Perder el último tren ; Andén
+Estar atrapado en un embotellamiento ; Bocinas
+Sacar el registro de conducir ; Examen
+Estacionar en un lugar muy chico ; Maniobra
+Viajar parado en el colectivo ; Agarrarse
+Andar en bicicleta por la ciudad ; Bicisenda
+Pagar el peaje ; Barrera
+Cargar la SUBE ; Saldo
+Lavar el auto un domingo ; Esponja
+Llevar el auto al mecánico ; Taller
+Viajar en avión por primera vez ; Nervios
+Pedir un auto por aplicación ; Chofer
+Subirse al colectivo equivocado ; Ramal
+Ceder el asiento a una persona mayor ; Amabilidad
+Cruzar en barco a Uruguay ; Puerto
+Manejar con lluvia de noche ; Limpiaparabrisas
+Hacer una mudanza en camioneta ; Cajas
+Andar en monopatín eléctrico ; Batería
+Perder la parada por estar distraído ; Timbre
+Tocar bocina en un semáforo ; Verde
+
+## naturaleza | Clima y naturaleza
+Ver un arcoíris después de la lluvia ; Colores
+Mirar las estrellas en el campo ; Cielo
+Escuchar truenos en una tormenta ; Ruido
+Caminar en la nieve ; Huellas
+Ver el amanecer en la playa ; Sol
+Juntar hojas secas en otoño ; Árbol
+Plantar un árbol ; Pala
+Ver una ballena en Puerto Madryn ; Mar
+Esconderse del granizo ; Techo
+Hacer un muñeco de nieve ; Zanahoria
+Sentir un temblor ; Susto
+Bañarse en un río de montaña ; Frío
+Escuchar pájaros a la mañana ; Canto
+Ver un eclipse ; Luna
+Perderse en un bosque ; Árboles
+Hacer una caminata por un sendero ; Mochila
+Ver luciérnagas en el verano ; Luces
+Correr por la ola de calor ; Termómetro
+Ver una tormenta desde la ventana ; Relámpago
+Mirar el atardecer desde una montaña ; Naranja
+Visitar un glaciar ; Hielo
+Ver un volcán humeando ; Lava
+Juntar caracoles en la playa ; Orilla
+Escuchar el viento en la noche ; Ventana
+Ver animales en un safari ; Jeep
+
+## fiestas | Fiestas y celebraciones
+Organizar una fiesta sorpresa ; Escondidos
+Festejar Año Nuevo con fuegos artificiales ; Brindis
+Abrir los regalos de Navidad ; Árbol
+Soplar las velitas de cumpleaños ; Deseo
+Bailar el vals en un casamiento ; Novios
+Disfrazarse para una fiesta ; Personaje
+Romper una piñata ; Palo
+Tirar el ramo en una boda ; Solteras
+Ir a una fiesta de quince ; Vestido
+Hacer un brindis en la cena familiar ; Copas
+Inflar globos para un cumpleaños ; Aire
+Buscar huevos de Pascua ; Chocolate
+Ir a un recital al aire libre ; Escenario
+Bailar hasta la madrugada ; Pista
+Cantar el feliz cumpleaños desafinado ; Torta
+Dejar los zapatos para los Reyes Magos ; Pasto
+Armar la mesa dulce ; Postres
+Ir a una despedida de soltero ; Amigos
+Esperar las doce en Nochebuena ; Reloj
+Festejar el Día del Amigo ; Mensajes
+Ir al carnaval con espuma ; Pomo
+Organizar un baby shower ; Embarazo
+Llegar a una fiesta muy temprano ; Vacío
+Ser el último en irse de la fiesta ; Madrugada
+Cantar en un karaoke ; Micrófono
+
+## tecnologia | Tecnología
+Quedarse sin wifi ; Conexión
+Olvidarse la contraseña ; Recuperar
+Mandar un audio de diez minutos ; WhatsApp
+Actualizar el celular y que no funcione nada ; Versión
+Romper la pantalla del celular ; Vidrio
+Sacarse una selfie grupal ; Brazo
+Jugar a la consola toda la noche ; Joystick
+Ver una serie entera en un fin de semana ; Capítulos
+Hacer una videollamada con la abuela ; Cámara
+Comprar algo por internet ; Envío
+Ver un video de gatitos ; Redes
+Configurar un control remoto universal ; Botones
+Pedirle ayuda a un nieto con el celular ; Paciencia
+Quedarse sin espacio en el celular ; Fotos
+Escanear un código QR en un restaurante ; Menú
+Subir una foto a las redes ; Me gusta
+Instalar una aplicación nueva ; Descargar
+Hacer una transmisión en vivo ; Seguidores
+Perder el celular en un taxi ; Ubicación
+Apagar y prender la computadora ; Técnico
+Enviar un mensaje y arrepentirse ; Borrar
+Hablarle a un asistente virtual ; Voz
+Tener la batería al uno por ciento ; Cargador
+Programar una página web ; Código
+Ver una película en realidad virtual ; Anteojos
+
+## entretenimiento | Entretenimiento
+Ir al cine a ver un estreno ; Pochoclos
+Ver un show de magia ; Conejo
+Ir al circo ; Payaso
+Armar un rompecabezas de mil piezas ; Paciencia
+Jugar a las cartas en familia ; Mazo
+Ir a un parque de diversiones ; Montaña rusa
+Ver una obra de teatro ; Telón
+Ir a un recital de rock ; Guitarra
+Hacer una noche de juegos de mesa ; Dados
+Mirar una película de terror a oscuras ; Grito
+Ir a bailar a un boliche ; Música
+Leer un libro en la playa ; Páginas
+Tocar la guitarra en un fogón ; Canciones
+Escuchar la radio en el auto ; Locutor
+Ver dibujitos un sábado a la mañana ; Tele
+Subirse a la calesita ; Sortija
+Ganar en un juego de preguntas ; Respuestas
+Jugar a la escondida ; Contar
+Ver un partido de truco ; Envido
+Ir a un museo un domingo ; Cuadros
+Hacer una maratón de películas ; Sillón
+Ir a una milonga ; Tango
+Ver un espectáculo de títeres ; Hilos
+Salir de un escape room ; Pistas
+Ir a una feria de artesanos ; Puestos
+
+## lugares | Lugares
+Hacer las compras en la feria ; Puestos
+Esperar en la guardia de un hospital ; Turno
+Pasear por el shopping un domingo ; Vidrieras
+Ir a la peluquería ; Corte
+Visitar una estancia en el campo ; Caballos
+Pasear por la plaza del pueblo ; Bancos
+Ir a la farmacia de turno ; Remedios
+Subir a la terraza de un edificio ; Vista
+Recorrer un castillo antiguo ; Torres
+Ir a una biblioteca a estudiar ; Silencio
+Ir al zoológico con chicos ; Animales
+Comer en una parrilla al costado de la ruta ; Camioneros
+Entrar a una iglesia en silencio ; Velas
+Visitar el Obelisco ; Buenos Aires
+Ir al banco a hacer un trámite ; Ventanilla
+Ir a un mercado de pulgas ; Antigüedades
+Entrar a una casa embrujada ; Fantasma
+Visitar una bodega en Mendoza ; Vino
+Ir a la cancha de visitante ; Hinchada
+Cruzar un puente colgante ; Vértigo
+
+## actividades | Actividades
+Aprender a cocinar ; Receta
+Hacer un curso de baile ; Pasos
+Empezar a correr por las mañanas ; Zapatillas
+Pintar un cuadro ; Pincel
+Tejer una bufanda ; Lana
+Armar una huerta en casa ; Tomates
+Aprender a tocar un instrumento ; Notas
+Hacer meditación a la mañana ; Respiración
+Sacar fotos en la calle ; Cámara
+Escribir un diario personal ; Secreto
+Hacer un curso de idiomas ; Palabras
+Andar en kayak por el río ; Remo
+Hacer trekking en la montaña ; Bastón
+Armar una biblioteca ; Libros
+Restaurar un mueble viejo ; Lija
+Hacer un asado para veinte personas ; Carbón
+Organizar una colecta solidaria ; Donaciones
+Hacer pan casero por primera vez ; Levadura
+Andar a caballo ; Riendas
+Juntar estampillas de otros países ; Colección
+Hacer un picnic en el parque ; Mantel
+Ir a pescar de madrugada ; Caña
+Hacer un tatuaje ; Aguja
+Aprender a nadar de grande ; Flotador
+Volar un barrilete ; Hilo
+
+## situaciones-graciosas | Situaciones graciosas
+Saludar a alguien que no te estaba saludando ; Mano
+Resbalarse en un piso recién trapeado ; Cartel
+Quedarse con la mano extendida ; Saludo
+Reírse en un momento serio ; Tentación
+Llamar a la maestra mamá ; Escuela
+Quedarse encerrado en un baño ; Puerta
+Salir a la calle con la ropa al revés ; Etiqueta
+Cantar fuerte con auriculares sin darse cuenta ; Música
+Hablar solo y que te escuchen ; Vergüenza
+Mandar un mensaje a la persona equivocada ; Pánico
+Equivocarse de nombre en una presentación ; Papelón
+Tropezarse en la calle y disimular ; Vereda
+Quedarse dormido en el colectivo y pasarse ; Parada
+Tener comida entre los dientes en una cita ; Espejo
+Empujar una puerta que dice tirar ; Cartel
+Dar like a una foto vieja sin querer ; Redes
+Olvidarse el nombre de alguien a mitad de charla ; Memoria
+Aplaudir cuando aterriza el avión ; Pasajeros
+Llegar a una fiesta disfrazado y que nadie más esté disfrazado ; Vergüenza
+Que se te escape un ruido en silencio ; Risas
+Contestar el teléfono con la boca llena ; Comida
+Confundirse de auto en el estacionamiento ; Llave
+Sentarse en una silla que no estaba ; Piso
+Que te sorprendan bailando solo ; Música
+Hacer una pregunta que ya respondieron ; Atención
+Salir en la foto con los ojos cerrados ; Flash
+Ponerse a llorar con una publicidad ; Emoción
+Quemarse la lengua con el mate ; Termo
+Contar un chiste y que nadie se ría ; Silencio
+Discutir con el GPS ; Recalculando

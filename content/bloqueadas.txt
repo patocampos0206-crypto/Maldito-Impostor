@@ -1,0 +1,1 @@
+# Palabras que nunca deben aparecer en el juego (una por línea)
